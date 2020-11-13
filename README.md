@@ -5,6 +5,7 @@ seja bem vindo ao github, sinta-se em casa ❤️
 ### quer se conectar comigo?
 
 [<img align="left" alt="lucassouzamatos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 
 ### linguagens e ferramentas que eu acho top:
